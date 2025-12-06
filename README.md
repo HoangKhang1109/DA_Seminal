@@ -23,7 +23,7 @@ Demo Trực Tuyến
 ##  Công Nghệ Sử Dụng
 
 * **Ngôn ngữ:** Python
-* **Mô hình AI:** Hugging Face Transformers (PhoBERT - `wonrax/phobert-base-vietnamese-sentiment`)
+* **Mô hình AI:** [wonrax/phobert-base-vietnamese-sentiment](https://huggingface.co/wonrax/phobert-base-vietnamese-sentiment) (Hugging Face)
 * **Backend API:** FastAPI & Uvicorn
 * **Frontend:** Streamlit
 * **Database:** SQLite
